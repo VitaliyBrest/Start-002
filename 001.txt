@@ -1,4 +1,4 @@
-// Start 01 23.01.1989
+// Start 01 23.01.1989 проверкка
 var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
