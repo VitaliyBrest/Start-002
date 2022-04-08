@@ -1,9 +1,9 @@
-// Start 01 1989
+// Start 01 23.01.1989
 var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
 
-// Start 01 1989
+// Start 01 23.01.1989
 studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
